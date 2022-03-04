@@ -1,4 +1,4 @@
-# number-counter
+# Number Counter
 
 ## Program Description
 This program generates a range of numbers based upon a set of parameters given by the user. The three parameters are: a start value, an end value, and a step value. 
