@@ -10,9 +10,9 @@ If the user enters an incorrect value (e.g., a string, a negative value) or does
 Once the values have been entered by the user, the range is printed to the screen.  
 
 ## Sample Runs
-
-
-
+**Valid Parameters Entered**   |  **Invalid Parameters Entered**
+:-------------------------:|:-------------------------:
+<img src="https://github.com/junmian/number-counter/blob/main/valid-parameters-entered.png" alt="Valid Parameters Entered"> | <img src="https://github.com/junmian/number-counter/blob/main/invalid-parameters-entered.png" alt="Invalid Parameters Entered">
 
 ## To Run the Program:
 - Install Python (prerequisite)
